@@ -1,0 +1,13 @@
+ #safe{
+padding:5px;
+    font-size:20px;
+    background-color:teal;
+    border-style:solid;
+    border-color:blue;
+    border-width:1px; 
+    border-radius:16px;    
+}
+
+#ded{ 
+    margin:40px;
+}
